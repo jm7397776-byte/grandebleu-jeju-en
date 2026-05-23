@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Jeju Yacht Sunset Tour: Sail Daepo Port at Golden Hour"
 date: 2026-05-24
 description: "Skip crowded viewpoints. Watch Jeju's sunset from a catamaran yacht in Seogwipo Daepo Port—1-hour sail, free drinks, unreal photos. Book now."

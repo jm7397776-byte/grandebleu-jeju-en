@@ -1,0 +1,19 @@
+title: Grande Bleu Jeju Yacht
+description: Premium catamaran sailing tours in Jeju Island, Korea
+url: ""
+baseurl: ""
+theme: minima
+permalink: /:title/
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+header_pages:
+  - about.md
+  - book.md
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
